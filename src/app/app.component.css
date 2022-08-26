@@ -1,0 +1,15 @@
+p {
+  font-family: Lato;
+}
+
+button.navbar-toggler {
+  background-color: #FFF;
+}
+
+.navbar-nav .nav-link {
+  padding-left: 10px;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-dark {
+  padding-right: 15px;
+}
